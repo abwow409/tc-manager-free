@@ -1,4 +1,3 @@
-# tc-manager-free
 TrinityCore Secure Account Management System – System Documentation
 
 1. System Overview
