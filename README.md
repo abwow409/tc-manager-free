@@ -334,7 +334,7 @@ A: Check that worldserver is running, SOAP configuration is correct, and firewal
 Q: Activation email not received.
 A: Verify SMTP settings and check mail logs; users can use the “Resend activation email” function.
 
-Q: Characters not visible after login.
+Q: Characters not visible after login..
 A: Confirm that characters_database is correctly configured and that the Battle.net account actually has characters.
 
 Q: Item not received after points exchange.
